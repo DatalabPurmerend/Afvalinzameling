@@ -14,7 +14,7 @@ define([],
 			} 
 			],
 			//Enter a title, if no title is specified, the first webmap's title is used.
-			title: "Stadsverdediging",
+			title: "Afvalinzameling containers gemeente Purmerend en Beemster",
 			//Enter a subtitle, if no subtitle is specified, the first webmap's subtitle is used.
 			subtitle: "Leiden kent een lange geschiedenis. In de tabbladen hieronder leest u meer over de ontwikkeling van de stad.",
 			// If false, each tab will have a number on it. If true, the first tab will not have a number and the second tab will start counting at 1.
